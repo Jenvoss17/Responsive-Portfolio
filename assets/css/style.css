@@ -53,7 +53,7 @@ header {
   display: block;
   width: 25px;
   height: 2px;
-  background-color: teal;
+  background-color:#4aaaa5;
 }
 .mobileNav {
   display: none;
