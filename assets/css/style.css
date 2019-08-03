@@ -162,3 +162,11 @@ footer::before {
     width: 100%;
   }
 }
+
+.contactLinks {
+  color: #f6bc31;
+  cursor: pointer;
+}
+.contactLinks:hover {
+  color: #9c771e;
+}
